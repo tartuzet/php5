@@ -11,3 +11,7 @@ Es un estracto de la documentacion oficial de [PHP](https://secure.php.net/manua
   - Variables variables
 - Arrays
 - Constantes
+- Pre y Post incremento
+- Operadores
+  - Operadores de ejecución
+  - Operadores lógicos
