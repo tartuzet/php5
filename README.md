@@ -10,3 +10,4 @@ Es un estracto de la documentacion oficial de [PHP](https://secure.php.net/manua
   - Variables por referencia
   - Variables variables
 - Arrays
+- Constantes
